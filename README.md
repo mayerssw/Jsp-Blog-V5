@@ -1,5 +1,17 @@
 # JSP 블로그 프로젝트
 
+## 4강
+- Header
+- Body
+- Serializable
+- 헤더를 보고 바디를 분석하여 역직렬화
+- MIME
+- Content-Type
+- 
+
+## Stateless
+
+
 ## 환경
 
 - windows10
