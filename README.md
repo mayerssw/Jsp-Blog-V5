@@ -5,7 +5,7 @@
 - windows10
 - jdk1.8
 - tomcat9.0
-- sts tool
+- sts tool(4.9)
 - mysql8.0
 - postman
 - lombok
