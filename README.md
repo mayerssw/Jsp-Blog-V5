@@ -1,5 +1,14 @@
 # JSP 블로그 프로젝트
 
+
+## MIME타입 코딩실습
+- localhost:8080/blog/test
+- POST
+- 키 food
+- 값 soup, ramen
+- Content-Type이 있으면 body로 보내라는 것
+- 
+
 ## 4강
 - Header
 - Body
@@ -9,7 +18,8 @@
 - Content-Type
 - 
 
-## Stateless
+## 3강
+
 
 
 ## 환경
