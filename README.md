@@ -1,5 +1,20 @@
 # JSP 블로그 프로젝트
 
+## 15강
+- JSTL 태그 라이브러리
+```
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<c:if>
+</c:if>
+
+<c:choose>
+<c:when>
+</c:when>
+<c:otherwise>
+</c:otherwise>
+</c:choose>
+```
 
 ## MIME타입 코딩실습
 - localhost:8080/blog/test
