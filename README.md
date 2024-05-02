@@ -25,6 +25,14 @@
 - 
 
 ## 4강
+- http 통신 -> 헤더, 바디
+- 클라이언트가 요청 시 서버가 응답
+- 서버는 2진데이터로 보내고 클라이언트는 2진 데이터를 역직렬화 해야함
+- 역직렬화를 하기위해서는 헤더가 필요함
+- 바디에는 직렬화된 데이터
+- 결론은 헤더를 보고 바디를 분석이 가능하다.
+- MIME 타입 (ex avi의 mime타입 video/x-msvideo)
+- 
 - Header
 - Body
 - Serializable
@@ -34,6 +42,19 @@
 - 
 
 ## 3강
+
+- Stateless (연결 지속X)  <-> stateful(채팅)
+- http 프로토콜(약속) -> 목적(자원 공유) -> html 문서 공유
+- 웹브라우저는 html의 해석기 (ex 아래아한글은 hwp 해석기)
+- request a.html
+- response a.html
+- 
+
+
+
+
+
+
 
 ## 2강
 웹서버의 개념
