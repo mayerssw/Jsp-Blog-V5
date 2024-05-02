@@ -16,7 +16,9 @@
 </c:choose>
 ```
 
-## MIME타입 코딩실습
+## 5강(MIME타입 코딩실습)
+
+ApiServerTest.javva
 - localhost:8080/blog/test
 - POST
 - 키 food
@@ -24,7 +26,6 @@
 - Content-Type이 있으면 body로 보내라는 것
 - 
 
-## 5강
 
 
 ## 4강
