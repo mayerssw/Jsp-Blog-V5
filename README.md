@@ -94,3 +94,32 @@ CREATE TABLE reply(
     foreign key (boardId) references board (id) on delete cascade
 ) engine=InnoDB default charset=utf8;
 ```
+
+
+## 1강
+
+localhost:8080 mywork폴더
+localhost:8080/blog mywork폴더의 blog폴더의 webcontent 폴더 진입
+
+web.xml 
+welcome-page
+
+--------------------------------------------------------------------------
+
+github 올리기
+
+Repostory name : jsp-Blog-V5
+
+git bash
+
+git init
+
+git add .
+
+git commit -m "1. JSP블로그 환경설정 완료(DB생성, 테이블생성, README 생성)
+
+git remote add origin 
+
+git push origin master
+
+
