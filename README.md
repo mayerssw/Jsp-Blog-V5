@@ -35,6 +35,28 @@
 
 ## 3강
 
+## 2강
+웹서버의 개념
+
+http
+
+Apache
+
+프로세스 : 실행중인 프로그램
+
+JSP : html 안에 자바파일이 있는 파일
+
+jsp파일은 웹브라우저가 이해하지 못함
+
+웹서버는 jsp 파일을 받으면 was서버에게 던짐
+
+was서버는 jsp파일을 서블릿(자바)파일로 변환
+
+index.jsp -> index.jsp.java -> 컴파일 -> index.jsp.class -> 실행 -> index.html
+
+
+
+
 
 
 ## 환경
