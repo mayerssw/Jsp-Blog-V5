@@ -15,11 +15,25 @@
 </c:otherwise>
 </c:choose>
 ```
-
+## 7강
+1. web.xml
+2. context.xml
+3. DB.java (static으로 만드는이유)
+4. DBTest.java (삭제)
+5. MySQL 라이브러리
+6. filter
+7. charConfig
 
 ## 6강
 
 
+
+Model과 DTO의 차이
+
+서비스
+1. 회원가입
+
+컨트롤러
 
 ## 5강(MIME타입 코딩실습)
 
