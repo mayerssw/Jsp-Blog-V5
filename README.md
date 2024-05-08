@@ -16,6 +16,27 @@
 </c:choose>
 ```
 
+
+## 12강 (유저네임 중복검사)
+
+
+
+## 11강 (ajax)
+HTML을 응답받는게 아니라 XML을 응답받음
+
+회원가입 중복확인에서 ajax 활용
+
+AjaxTest.java
+ajaxtest.jsp
+
+
+
+## 10강 (주소API)
+
+API 서비스 신청하기
+
+https://business.juso.go.kr/addrlink/openApi/apiReqst.do
+
 ## 8강
 
 사용자 -> 요청 -> 컨트롤러 -> 서비스 - > 레포지토리 - DAO(DB), 네트워크(통신)
