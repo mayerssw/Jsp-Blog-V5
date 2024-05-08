@@ -1,4 +1,4 @@
-# JSP 블로그 프로젝트
+# JSP 블로그 프로젝트 (https://github.com/codingspecialist/Jsp-Blog-V5)
 
 ## 15강
 - JSTL 태그 라이브러리
@@ -15,6 +15,11 @@
 </c:otherwise>
 </c:choose>
 ```
+
+
+## 6강
+
+
 
 ## 5강(MIME타입 코딩실습)
 
