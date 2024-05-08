@@ -15,6 +15,10 @@
 </c:otherwise>
 </c:choose>
 ```
+
+## 8강
+
+사용자 -> 요청 -> 컨트롤러 -> 서비스 - > 레포지토리 - DAO(DB), 네트워크(통신)
 ## 7강
 1. web.xml
 2. context.xml
