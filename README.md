@@ -1,6 +1,12 @@
 # JSP 블로그 프로젝트 (https://github.com/codingspecialist/Jsp-Blog-V5)
 
 ## 15강
+
+세션 테스트
+
+로그인이 되면 회우
+
+
 - JSTL 태그 라이브러리
 ```
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -15,6 +21,7 @@
 </c:otherwise>
 </c:choose>
 ```
+session.invalidate();
 
 
 ## 12강 (유저네임 중복검사)
